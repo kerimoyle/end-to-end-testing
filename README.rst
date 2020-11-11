@@ -16,6 +16,8 @@ This will create a directory containing:
 
 Provided files:
 
+.. code-block:: text 
+
     CMakeLists.txt
     tests/
         colours.cmake
@@ -24,6 +26,8 @@ Provided files:
         run_all_tests.cmake
 
 Template files: Edit the templates provided for each group of tests.
+
+.. code-block:: text 
 
     tests/
         test_example.cmake:         For each group of tests, the user must supply a .cmake file
