@@ -65,3 +65,5 @@ Finally, we run the test framework to compare the output from each test executab
 
 Once the tests have been built and run, the results will be written to the terminal.
 If any tests fail, a file called `test_report.diff` can be found in this build directory which will detail where differences have been found between the exemplar files and those created when the tested executables were run.
+
+Note that the example above has been deliberately set up so that the second test will fail, in order that the test report file is created.
