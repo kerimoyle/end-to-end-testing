@@ -10,8 +10,6 @@
 
 ]]
 
-# set(ORIG_SRC_DIR "${CMAKE_CURRENT_SOURCE_DIR}/${TEST_GROUP_NAME}")
-
 cmake_minimum_required(VERSION 3.12)
 cmake_policy(SET CMP0007 NEW)
 
